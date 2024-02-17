@@ -13,5 +13,3 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I enjoy experimenting with new recipes in my free time and have a knack for creating fusion dishes that combine different culinary traditions.
-
-Use the above information and create a best resume in the format of html with good CSS and bootstrap
